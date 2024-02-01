@@ -1,5 +1,5 @@
 # insecure-cookie-flags
-Tool for esting insecure cookie flags
+Tool for testing insecure cookie flags
 # Script description
 As HTTP is a stateless protocol,
 cookies provide a way to store persistent data on the client side. This allows a web server to
